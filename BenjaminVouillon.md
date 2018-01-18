@@ -7,5 +7,5 @@
 # Jour 2 (18/01/18):  
 -  Test carte moteur (https://wiki.mchobby.be/index.php?title=Pont-H_L298N#Ressources) = OK  
 -  Test moteur 9V rectangle
-=> **Probléme de couple:les roues ne sont pas entrainées!!**
+=> **Probléme de couple : les roues ne sont pas entrainées!!**
 
