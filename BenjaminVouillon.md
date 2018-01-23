@@ -9,3 +9,8 @@
 -  Test moteur 9V rectangle
 => **Probléme de couple : les roues ne sont pas entrainées!!**
 
+# Jour 3 (23/01/2018):
+-  Présentation du projet devant la classe 
+-  Résolution du probléme des moteurs : La pile était HS
+-  Installation des roues
+=> Controle des moteurs avec la carte
