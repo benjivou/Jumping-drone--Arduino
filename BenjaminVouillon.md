@@ -14,3 +14,8 @@
 -  Résolution du probléme des moteurs : La pile était HS
 -  Installation des roues
 => Controle des moteurs avec la carte
+
+# Jour 3.5 (27/01/2018):
+-  Maîtrise du controle des moteurs sans bluetooth   
+=> Controle avec le Bluetooth  
+=> **Comment gérer le controle du moteur + les éclairages sans conflit et en même temps?  
