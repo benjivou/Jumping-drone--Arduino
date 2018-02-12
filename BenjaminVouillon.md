@@ -20,4 +20,12 @@
 -  Pour faciliter les manipulations j'ai démonter la maquettes pour avoir un espace de travail plus facile
 ![test moteur](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/testmoteur.png)
 => Controle avec le Bluetooth  
-=> **Comment gérer le controle du moteur + les éclairages sans conflit et en même temps?  
+=> **Comment gérer le controle du moteur + les éclairages sans conflit et en même temps?**  
+
+# Jour 4 (07/02/2018):
+-J'ai commencé à réfléchir à un nouveau mode de programmation car on va avoir un soucis, si l'utilisateur commande les LEDs pendant ce temps le drone ne peut se déplacer.  
+=> **Comment réussir à géré le controle de toutes les tâches du drones?  Comment gérer les arguments de controle (couleur LED, vitesse,...)?**  
+==> **Idée: J'ai trouvé un mode programmation utilis dans ce cas, LES INTERRUPTIONS, le fait de créer des tâches prioritaires pour interrompre le cours normal de la Loop. (https://www.allaboutcircuits.com/technical-articles/using-interrupts-on-arduino/).**  
+=> Objectif scéance suivante:  
+- Il faut trouver une architecture logiciel qui permet gérer le controle multitache.  
+- Apprendre la prog des interruptions. 
