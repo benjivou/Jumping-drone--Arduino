@@ -34,3 +34,8 @@
 => Objectif scéance suivante:  
 -  Il faut trouver une architecture logiciel qui permet gérer le controle multitache.  
 -  Apprendre la prog des interruptions. 
+
+#   4.5 (27/02/2018):
+-   j'ai trouvé site avec   les modèles 3d du sumo  parrot,  problème de 
+
+http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
