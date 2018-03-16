@@ -35,7 +35,12 @@
 -  Il faut trouver une architecture logiciel qui permet gérer le controle multitache.  
 -  Apprendre la prog des interruptions. 
 
-#   4.5 (27/02/2018):
--   j'ai trouvé site avec   les modèles 3d du sumo  parrot,  problème de 
+# Jour 4.5 (27/02/2018):
+-   j'ai trouvé un site avec les modèles 3d du sumo  parrot,  problème de piéce solutionné
+http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx  
+-  J'ai refait l'architecture du code et fait la partie centrale du probléme : Coeur.  
 
-http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
+# Jour 5 (16/03/2018):
+-  Les moteurs sont demandés  
+-  J'ai fait la méthode Spliter, elle récupére le mot de Coeur pour le distribuer au bloc demandé dans la requête  
+==> **Objectif prochaine scéance: Faire fonctionner Spliter, et Coeur ensemble. Réecrire le moteur. Réaliser la présentation de nos avancements.  
