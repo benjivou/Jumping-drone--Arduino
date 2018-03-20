@@ -44,3 +44,7 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 -  Les moteurs sont demandés  
 -  J'ai fait la méthode Spliter, elle récupére le mot de Coeur pour le distribuer au bloc demandé dans la requête  
 ==> **Objectif prochaine scéance: Faire fonctionner Spliter, et Coeur ensemble. Réecrire le moteur. Réaliser la présentation de nos avancements.  
+
+# Jour 5.5 (20/03/2018):
+-  Les moteurs sont arrivés, ils ont plus de couple que les anciens moteurs, ils sont 4 fois plus petits, plus léger et fonction sous 3V à 6 V, Il nemanque plus qu'à les testé sur une nouvelle maquette.  
+-  J'ai fini le code générale, désormais, l'arduino sait receptionner un message dans le buffer, le convertir en message pour les blocs ( moteur, led, saut) et distribue un message bien qualibré pour chaque bloc.  https://github.com/benjivou/Jumping-drone--Arduino/code/BenjaminVouillon/COde/Realease/Realease_180320.ino 
