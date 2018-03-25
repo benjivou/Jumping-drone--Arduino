@@ -49,3 +49,11 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 -  Les moteurs sont arrivés, ils ont plus de couple que les anciens moteurs, ils sont 4 fois plus petits, plus léger et fonction sous 3V à 6 V, Il nemanque plus qu'à les testé sur une nouvelle maquette.  
 -  J'ai fini le code générale, désormais, l'arduino sait receptionner un message dans le buffer, le convertir en message pour les blocs ( moteur, led, saut) et distribue un message bien qualibré pour chaque bloc.  https://github.com/benjivou/Jumping-drone--Arduino/code/BenjaminVouillon/COde/Realease/Realease_180320.ino  
 -  Premier patch, j'ai rajouté une chose qui a son importante, ... UNE BANDE PASSANTE :) 
+
+# Jour 5.7 (25/03/2018):
+-  Création de roues avec des DVD, de la colle, du scotch et du plastique.  
+-  Commande de la batterie. 
+-  Désormais je sais que je vais limiter dans le code la tension d'alimentation des moteurs, car sinon ils risquent de griller ( alim 9v et moteur 6V ). 
+![maquette 2](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Version%202.jpg)  
+![maquette 2](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Version%202%20dessous.jpg)  
+
