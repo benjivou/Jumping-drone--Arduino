@@ -61,3 +61,5 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 -  Tester la carte BT  
 -  Ebauche de code de connexion BT  
 
+# Jour 7 (09/04/2018):  
+-  Connexion BT inclus dans le code
