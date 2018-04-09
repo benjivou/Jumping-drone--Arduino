@@ -57,3 +57,7 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 ![maquette 2](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Version%202.jpg)  
 ![maquette 2](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Version%202%20dessous.jpg)  
 
+# Jour 6 (02/04/2018):  
+-  Tester la carte BT  
+-  Ebauche de code de connexion BT  
+
