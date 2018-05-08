@@ -62,4 +62,8 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 -  Ebauche de code de connexion BT  
 
 # Jour 7 (09/04/2018):  
--  Connexion BT inclus dans le code
+-  Connexion BT inclus dans le code  
+
+# Jour 8 (07/05/2018):
+-  Réalisation de la structure en découpe laser sur du plexiglas  
+![maquette ](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Structure.jpg)
