@@ -46,7 +46,7 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 ==> **Objectif prochaine scéance: Faire fonctionner Spliter, et Coeur ensemble. Réecrire le moteur. Réaliser la présentation de nos avancements.  
 
 # Jour 5.5 (20/03/2018):
--  Les moteurs sont arrivés, ils ont plus de couple que les anciens moteurs, ils sont 4 fois plus petits, plus léger et fonction sous 3V à 6 V, Il nemanque plus qu'à les testé sur une nouvelle maquette.  
+-  Les moteurs sont arrivés, ils ont plus de couple que les anciens moteurs, ils sont 4 fois plus petits, plus léger et fonction sous 3V à 6V, il ne manque plus qu'à les tester sur une nouvelle maquette.  
 -  J'ai fini le code générale, désormais, l'arduino sait receptionner un message dans le buffer, le convertir en message pour les blocs ( moteur, led, saut) et distribue un message bien qualibré pour chaque bloc.  https://github.com/benjivou/Jumping-drone--Arduino/code/BenjaminVouillon/COde/Realease/Realease_180320.ino  
 -  Premier patch, j'ai rajouté une chose qui a son importante, ... UNE BANDE PASSANTE :) 
 
@@ -58,7 +58,7 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 ![maquette 2](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Version%202%20dessous.jpg)  
 
 # Jour 6 (02/04/2018):  
--  Tester la carte BT  
+-  Teste de la carte BT  
 -  Ebauche de code de connexion BT  
 
 # Jour 7 (09/04/2018):  
