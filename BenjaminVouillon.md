@@ -67,4 +67,11 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 # Jour 8 (07/05/2018):  
 -  Réception de la batterie définitive  
 -  Réalisation de la structure en découpe laser sur du plexiglas  
-![maquette ](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Structure.jpg)  
+![maquette 3](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Structure.jpg)
+
+# Jour 8.5 (13/05/2018):  
+-  Les moteurs sont fixés sur le support  
+-  Les roues sont fixées sur les axes  
+-  Les ressorts sont disponibles  
+![maquette 4](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/P_20180515_200301%5B1%5D.jpg)
+
