@@ -75,3 +75,9 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 -  Les ressorts sont disponibles  
 ![maquette 4](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/P_20180515_200301%5B1%5D.jpg)
 
+# Jour 8.7 (25/05/2018):  
+-  L'électronique et le code a été testé, c'est un succés.  
+-  Il fallut changer de carte car notre ancienne carte ne pouvais pas être alimenté par un alimentation externe ( il y avait un bug hardware sur la carte).  
+-  On a rajouté une deuxiéme pile 9V pour alimenter le circuit, car la pile seule ne pouvait fournir suffisament de courant au systéme.  
+
+
