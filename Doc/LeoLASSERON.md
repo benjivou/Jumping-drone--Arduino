@@ -24,7 +24,8 @@
 # Jour 11:   
 - Benjamin fusionne les deux codes, ainsi je peut tester ma méthode pour les leds et le servo moteur. Cela fonctionne mais nous avons un problème d'alimentation externe, on doit changer de carte arduino. 
 # Jour 12:   
-- Je doit m'occuper du montage du drone, je fait un premier test de montage en utilisant une breadboard. L'alimentation externe fonctionne bien mais elle n'est pas assez puissante. L'arduino crash dès qu'elle reçoit une instruction quand les deux moteurs des roues et les leds sont branchés. Je récupère une seconde alimentation afin de palier à ce problème. Je test le drone monté ainsi de manière provisoire, toutes les instructions de pilotage et de leds fonctionnent. Toutefois le drone dévie de trajectoire en marche arrière
+- Je doit m'occuper du montage du drone, je fait un premier test de montage en utilisant une breadboard. L'alimentation externe fonctionne bien mais elle n'est pas assez puissante. L'arduino crash dès qu'elle reçoit une instruction quand les deux moteurs des roues et les leds sont branchés. Je récupère une seconde alimentation afin de palier à ce problème. Je test le drone monté ainsi de manière provisoire, toutes les instructions de pilotage et de leds fonctionnent. Toutefois le drone dévie de trajectoire en marche arrière.
+![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34047741_1796599660386648_6835009258342318080_n.jpg?raw=true)
 # Jour 13:   
 - Je réalise la première partie du montage finale : souder sur une plaquette tous nos composants ainsi que tous nos fils afin de retirer la breadboard. Il y'a beaucoups de soudures cela prend donc beaucoup de temps mais dès les premiers test cela fonctionne, mes soudures fonctionnent et la plaquette aussi. 
 # Jour 13:   
