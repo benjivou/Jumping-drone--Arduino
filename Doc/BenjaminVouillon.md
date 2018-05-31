@@ -2,7 +2,7 @@
 -  Création du Github  
 -  Découverte des piéces du moteur  
 -  Recherche de la solution d'éclairage du drone   
--  Création d'une maquette low cost pour les moteurs ![maquette](https://raw.githubusercontent.com/benjivou/Jumping-drone--Arduino/master/Image/Ben/Maquette1.jpg)
+-  Création d'une maquette low cost pour les moteurs ![maquette](https://raw.githubusercontent.com/benjivou/Jumping-drone--Arduino/master/Doc/Image/Ben/Maquette1.jpg)
 
 # Jour 2 (18/01/18):  
 -  Test carte moteur (https://wiki.mchobby.be/index.php?title=Pont-H_L298N#Ressources) = OK  
@@ -47,15 +47,15 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 
 # Jour 5.5 (20/03/2018):
 -  Les moteurs sont arrivés, ils ont plus de couple que les anciens moteurs, ils sont 4 fois plus petits, plus léger et fonction sous 3V à 6V, il ne manque plus qu'à les tester sur une nouvelle maquette.  
--  J'ai fini le code générale, désormais, l'arduino sait receptionner un message dans le buffer, le convertir en message pour les blocs ( moteur, led, saut) et distribue un message bien qualibré pour chaque bloc.  https://github.com/benjivou/Jumping-drone--Arduino/code/BenjaminVouillon/COde/Realease/Realease_180320.ino  
+-  J'ai fini le code générale, désormais, l'arduino sait receptionner un message dans le buffer, le convertir en message pour les blocs ( moteur, led, saut) et distribue un message bien qualibré pour chaque bloc.  https://github.com/benjivou/Jumping-drone--Arduino/Doc/code/BenjaminVouillon/COde/Realease/Realease_180320.ino  
 -  Premier patch, j'ai rajouté une chose qui a son importante, ... UNE BANDE PASSANTE :) 
 
 # Jour 5.7 (25/03/2018):
 -  Création de roues avec des DVD, de la colle, du scotch et du plastique.  
 -  Commande de la batterie. 
 -  Désormais je sais que je vais limiter dans le code la tension d'alimentation des moteurs, car sinon ils risquent de griller ( alim 9v et moteur 6V ). 
-![maquette 2](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Version%202.jpg)  
-![maquette 2](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Version%202%20dessous.jpg)  
+![maquette 2](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/Image/Ben/Version%202.jpg)  
+![maquette 2](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/Image/Ben/Version%202%20dessous.jpg)  
 
 # Jour 6 (02/04/2018):  
 -  Teste de la carte BT  
@@ -67,13 +67,13 @@ http://m.yeggi.com/q/parrot+jumping+sumo/?s=tx
 # Jour 8 (07/05/2018):  
 -  Réception de la batterie définitive  
 -  Réalisation de la structure en découpe laser sur du plexiglas  
-![maquette 3](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/Structure.jpg)
+![maquette 3](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/Image/Ben/Structure.jpg)
 
 # Jour 8.5 (13/05/2018):  
 -  Les moteurs sont fixés sur le support  
 -  Les roues sont fixées sur les axes  
 -  Les ressorts sont disponibles  
-![maquette 4](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Image/Ben/P_20180515_200301%5B1%5D.jpg)
+![maquette 4](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/Image/Ben/P_20180515_200301%5B1%5D.jpg)
 
 # Jour 8.7 (25/05/2018):  
 -  L'électronique et le code ont été testés, c'est un succés.  
