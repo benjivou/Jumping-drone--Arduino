@@ -14,7 +14,8 @@
 - Le programme autour des leds et des différents mode lumineux séléctionnables est terminé j'essaye de le fusionner dans le code de Benjamin qui reçoit et traite les requetes bluetooth mais je rencontre des problèmes de variables. Je laisse cette tache de coté en attendant que Benjamin finisse complétement sa partie autour des moteurs et puisse m'aider.
 # Jour 8:   
 - Je commence la partie mécanique autour du saut, je vais au fab lab pour faire imprimer la pièce qui nous servira à comprimer le ressort puis a le relacher avec le servo moteur.Je récupère la pièce qui s'est correctement imprimé.
-![alt text](https://raw.githubusercontent.com/benjivou/(Jumping-drone--Arduino/Doc/photos/33994757_1796599723719975_7744947553728200704_n.jpg)
+
+![pièce](https://raw.githubusercontent.com/benjivou/(Jumping-drone--Arduino/Doc/photos/33994757_1796599723719975_7744947553728200704_n.jpg)
 # Jour 9:   
 - Fabriquation de la queue du drone à l'aide tige filetées métaliques et ajout des ressorts sur chacun des axes.
 # Jour 10:   
