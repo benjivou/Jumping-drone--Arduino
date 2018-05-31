@@ -28,7 +28,8 @@
 - Je relie le servo moteur que je n'avais pas pu tester avec l'alimentation externe à la plaquette et l'arduino crash de nouveau. J'ajoute donc une troisème pile au montage. Je finalise la plaquettes avec les derniers fils à souder et je commence le montage final.
 L'agancement est très serré, je scotch donc chaque cable afin qu'il ne gène pas fonctionnement du servo moteur du système de saut.
 # Jour 14:   
-- Je termine le montage en fixant le controleur moteur, l'arduino et la plaquette sur le chassis du drone qui comprenais déjà les roues,les moteurs, et le système de saut. Enfin je découpe le ruban de leds et le fixe autour du chassis. Je fais tous les branchements entre l'arduino,la plaquette, les batteries et le controleur moteur. 
+- Je termine le montage en fixant le controleur moteur, l'arduino et la plaquette sur le chassis du drone qui comprenais déjà les roues,les moteurs, et le système de saut. Enfin je découpe le ruban de leds et le fixe autour du chassis. Je fais tous les branchements entre l'arduino,la plaquette, les batteries et le controleur moteur. Le drone est monté, je le test et prend une vidéo de démonstration.
+Tout fonctionne mais l'alimentation semble parfois juste car il arrive encore que l'arduino crash quand tous les moteurs et les leds fonctionne en même temps. 
 
 
 
