@@ -14,6 +14,7 @@
 - Le programme autour des leds et des différents mode lumineux séléctionnables est terminé j'essaye de le fusionner dans le code de Benjamin qui reçoit et traite les requetes bluetooth mais je rencontre des problèmes de variables. Je laisse cette tache de coté en attendant que Benjamin finisse complétement sa partie autour des moteurs et puisse m'aider.
 # Jour 8:   
 - Je commence la partie mécanique autour du saut, je vais au fab lab pour faire imprimer la pièce qui nous servira à comprimer le ressort puis a le relacher avec le servo moteur.Je récupère la pièce qui s'est correctement imprimé.
+https://camo.githubusercontent.com/2fe98f1f93a495607acfac1a6b62cb1d4affdbca/687474703a2f2f7777772e706f6c79746563686e6963652e66722f6a616869612f6a73702f6a616869612f74656d706c617465732f696e632f696d672f706f6c79746563685f6e6963652d736f706869612e706e67
 # Jour 9:   
 - Fabriquation de la queue du drone à l'aide tige filetées métaliques et ajout des ressorts sur chacun des axes.
 # Jour 10:   
