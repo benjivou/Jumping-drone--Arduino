@@ -18,6 +18,7 @@
 ![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/33994757_1796599723719975_7744947553728200704_n.jpg?raw=true)
 # Jour 9:   
 - Fabriquation de la queue du drone à l'aide tige filetées métaliques et ajout des ressorts sur chacun des axes.
+![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34092525_1796599417053339_4037321867294408704_n.jpg?raw=true)
 # Jour 10:   
 - Nous allons au fab lab avec Benjamin pour découper le chassis que nous avons schématisé sur feuille dans une planche de plexi. On y perce tous les trous pour les fixations et on découpe également la pièce de bois dans laquelle les axes de la queue coulisseronts.
 # Jour 11:   
