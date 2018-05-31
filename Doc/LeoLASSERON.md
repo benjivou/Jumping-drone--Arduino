@@ -27,7 +27,10 @@
 - Je doit m'occuper du montage du drone, je fait un premier test de montage en utilisant une breadboard. L'alimentation externe fonctionne bien mais elle n'est pas assez puissante. L'arduino crash dès qu'elle reçoit une instruction quand les deux moteurs des roues et les leds sont branchés. Je récupère une seconde alimentation afin de palier à ce problème. Je test le drone monté ainsi de manière provisoire, toutes les instructions de pilotage et de leds fonctionnent. Toutefois le drone dévie de trajectoire en marche arrière.
 ![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34047741_1796599660386648_6835009258342318080_n.jpg?raw=true)
 # Jour 13:   
-- Je réalise la première partie du montage finale : souder sur une plaquette tous nos composants ainsi que tous nos fils afin de retirer la breadboard. Il y'a beaucoups de soudures cela prend donc beaucoup de temps mais dès les premiers test cela fonctionne, mes soudures fonctionnent et la plaquette aussi. 
+- Je réalise la première partie du montage finale : souder sur une plaquette tous nos composants ainsi que tous nos fils afin de retirer la breadboard. Il y'a beaucoups de soudures cela prend donc beaucoup de temps mais dès les premiers test cela fonctionne, mes soudures fonctionnent et la plaquette aussi.
+![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34014152_1796599617053319_1300151566174519296_n.jpg?raw=true)
+![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34011450_1796599613719986_6481184303400091648_n.jpg?raw=true)
+![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34064633_1796599570386657_5680080389100535808_n.jpg?raw=true)
 # Jour 13:   
 - Je relie le servo moteur que je n'avais pas pu tester avec l'alimentation externe à la plaquette et l'arduino crash de nouveau. J'ajoute donc une troisème pile au montage. Je finalise la plaquettes avec les derniers fils à souder et je commence le montage final.
 L'agancement est très serré, je scotch donc chaque cable afin qu'il ne gène pas fonctionnement du servo moteur du système de saut.
