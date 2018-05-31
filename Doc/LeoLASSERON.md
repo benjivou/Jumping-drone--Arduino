@@ -31,12 +31,16 @@
 ![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34014152_1796599617053319_1300151566174519296_n.jpg?raw=true)
 ![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34011450_1796599613719986_6481184303400091648_n.jpg?raw=true)
 ![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34064633_1796599570386657_5680080389100535808_n.jpg?raw=true)
-# Jour 13:   
+# Jour 14:   
 - Je relie le servo moteur que je n'avais pas pu tester avec l'alimentation externe à la plaquette et l'arduino crash de nouveau. J'ajoute donc une troisème pile au montage. Je finalise la plaquettes avec les derniers fils à souder et je commence le montage final.
 L'agancement est très serré, je scotch donc chaque cable afin qu'il ne gène pas fonctionnement du servo moteur du système de saut.
-# Jour 14:   
+![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34091898_1796599387053342_4814538835645956096_n.jpg?raw=true)
+![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34078432_1796599843719963_6767155363545350144_n.jpg?raw=true)
+# Jour 15:   
 - Je termine le montage en fixant le controleur moteur, l'arduino et la plaquette sur le chassis du drone qui comprenais déjà les roues,les moteurs, et le système de saut. Enfin je découpe le ruban de leds et le fixe autour du chassis. Je fais tous les branchements entre l'arduino,la plaquette, les batteries et le controleur moteur. Le drone est monté, je le test et prend une vidéo de démonstration.
 Tout fonctionne mais l'alimentation semble parfois juste car il arrive encore que l'arduino crash quand tous les moteurs et les leds fonctionne en même temps. 
+![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34284518_1796599490386665_5259584300340215808_n.jpg?raw=true)
+![pièce](https://github.com/benjivou/Jumping-drone--Arduino/blob/master/Doc/photos/34124952_1796599420386672_5205174885835341824_n.jpg?raw=true)
 
 
 
