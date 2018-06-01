@@ -17,3 +17,6 @@ Un drone terrestre à deux roues, personnalisable visuellement avec des leds et 
 * Un servo moteur 996r
 * Deux ressorts
 * Du bois, du plexiglass et de la quincaillerie. 
+
+# Vidéo de démonstration :
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BWEitpaMLQ0/0.jpg)](https://www.youtube.com/watch?v=BWEitpaMLQ0)
