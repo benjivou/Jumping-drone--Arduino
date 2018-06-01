@@ -8,9 +8,9 @@ Drone terrestre, controlé par un télephone, il se déplace sur 2 roues, et il 
 
 # Matériel
 
--Une carte Arduino 
--3 batteries 9V 800mAh rechargeables
--Un module bluetooth HC-06
+* Une carte Arduino 
+* 3 batteries 9V 800mAh rechargeables
+* Un module bluetooth HC-06
 -Deux moteurs continues fortement reduits
 -Une carte de controle moteurs
 -Des resistances et des fils
