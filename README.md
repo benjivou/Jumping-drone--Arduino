@@ -4,7 +4,7 @@
 # Jumping-drone--Arduino
 Ce projet est réalisé dans le cadre de la formation de prépa intégrée Polytech'Nice Sophia
 
-Drone terrestre, controlé par un télephone, il se déplace sur 2 roues, et il peut sauter.
+Un drone terrestre à deux roues, personnalisable visuellement avec des leds et capable de sauter. Le tout controlable avec un smartphone via bluetooth.
 
 # Matériel
 
