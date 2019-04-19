@@ -2,7 +2,7 @@
 #include <Servo.h>    // Commande servo
 #include <MsTimer2.h> // Interrupteur logique
 #include <WS2812FX.h> // Controle des Leds
-#include <SoftwareSerial.h>  //Software Serial Port
+#include <SoftwareSerial.h>  //Software Serial Port    
 
 #define LED_COUNT 33
 #define LED_PIN 11
@@ -16,12 +16,12 @@
 #define IN3 8
 #define IN4 9
 Servo myservo;
-SoftwareSerial BTSerie(RxD,TxD);
+SoftwareSerial BTSerie(RxD,TxD);  
 
 
 
 WS2812FX ws2812fx = WS2812FX(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);// Led controleur
-volatile char mode='B';     //mode de fct led
+volatile char mode='B';     //mode de fct led 
 volatile int vite=200;   // vite de clignotement
 volatile String couleur="0x660099"; //couleur led
 bool Bordre;
@@ -200,7 +200,7 @@ void ordre(String mode,String coul){
       // if nothing else matches, do the default
       // default is optional
       }
-
+  
 
   ws2812fx.setSpeed(vite);
   ws2812fx.setColor(0x660099);
@@ -215,11 +215,11 @@ void setup() {
   motorGauche.setSpeed(vit);
   myservo.attach(SAUT);
 
-    // Configuration du bluetooth
-  pinMode(RxD, INPUT);
-  pinMode(TxD, OUTPUT);
-  BTSerie.begin(9600);
-  delay(50);
+    // Configuration du bluetooth  
+  pinMode(RxD, INPUT);  
+  pinMode(TxD, OUTPUT);  
+  BTSerie.begin(9600); 
+  delay(100);
     // Configuration LED
   ws2812fx.init();
   ws2812fx.setBrightness(100);
